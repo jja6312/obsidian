@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "trashOption": "local",
+  "attachmentFolderPath": "Files",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Temporaries",
+  "alwaysUpdateLinks": true
+}

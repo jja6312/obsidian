@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"41394e9b88d1c621","x":-360,"y":-340,"width":1014,"height":440,"type":"group","label":"ㅇㄴㅇ"},
+		{"id":"2824292547e7dc91","type":"file","file":"Temporaries/adsff.md","x":234,"y":-320,"width":400,"height":400,"color":"5"},
+		{"id":"1dfd82b6f09f7b76","type":"file","file":"Temporaries/ㅇㅇ.md","x":-340,"y":-320,"width":400,"height":400,"color":"4"},
+		{"id":"f4c251c992541e6b","x":-900,"y":-320,"width":400,"height":400,"type":"file","file":"Temporaries/ㅇㅇ.md"}
+	],
+	"edges":[
+		{"id":"fac91d83b159735e","fromNode":"f4c251c992541e6b","fromSide":"right","toNode":"41394e9b88d1c621","toSide":"left"}
+	]
+}

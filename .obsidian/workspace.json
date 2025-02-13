@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "45f7abd2ffe572f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "faff0ddaf2e3dd65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2557a6e65a00ad7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/OCI(OracleCloudInfra)/베어메탈.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "베어메탈"
+            }
+          },
+          {
+            "id": "70d0246bef6cacba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temporaries/강의.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "강의"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "440b47b404d55297",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad8bd9a498d97394",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8323a3f3b7d31ead",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "84d9a6c8dc73621d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "d8c389829b41740a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9302200d502c003f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff40954050ba8519",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bea859143e4d9056",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "무제.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "무제 의 백링크"
+            }
+          },
+          {
+            "id": "4d3021cea3d7b0fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "무제.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "무제 의 나가는 링크"
+            }
+          },
+          {
+            "id": "f42e67bee6bdf1e9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "216407d75b8f5f28",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "무제.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "무제 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "70d0246bef6cacba",
+  "lastOpenFiles": [
+    "Files/Pasted image 20250212211629.png",
+    "Notes/OCI(OracleCloudInfra)/베어메탈.md",
+    "Temporaries/강의.md",
+    "Notes/OCI(OracleCloudInfra)/OCI.md",
+    "Notes/OCI(OracleCloudInfra)/하이퍼바이저.md",
+    "Templates/cc.md",
+    "Temporaries/무제.md",
+    "000_MOC/aws-moc-amazon-web-services-aws.md",
+    "000_MOC/Cloud_Services_MOC.md",
+    "000_MOC/OCI_MOC.md",
+    "000_MOC/oci-moc-oracle-cloud-infrastructure-oci.md",
+    "Notes/aboutMe/aboutMe.md",
+    "Notes/OCI(OracleCloudInfra)/무제.md",
+    "Templates/Service_Template.md",
+    "Temporaries/AWS.md",
+    "Temporaries/AWS_MOC.md",
+    "Temporaries/ddd.md",
+    "Notes/aboutMe",
+    "000_MOC",
+    "무제.md",
+    "Files/Pasted image 20250212114810.png",
+    "attachments/Pasted image 20250212114749.png",
+    "attachments",
+    "Notes/OCI(OracleCloudInfra)",
+    "Temporaries/adsff.md",
+    "무제.canvas",
+    "Temporaries/ㅇㅇ.md",
+    "Templates",
+    "Temporaries",
+    "Notes",
+    "hello/ㅁㅇㄴㄹ.md",
+    "Files",
+    "Pasted image 20250212101348.png",
+    "ㅇㄴㄹ.md",
+    "무제 5.md",
+    "ㅇㅇ",
+    "무제 4.md",
+    "무제 3.md",
+    "hello",
+    "무제 2.md"
+  ]
+}
