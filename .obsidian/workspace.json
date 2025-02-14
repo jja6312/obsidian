@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temporaries/강의.md",
+                "file": "Temporaries/OCI 강의.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,12 +47,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "강의"
+              "title": "OCI 강의"
             }
           }
         ],
@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9302200d502c003f",
@@ -206,18 +207,22 @@
   },
   "active": "70d0246bef6cacba",
   "lastOpenFiles": [
-    "Files/Pasted image 20250212211629.png",
-    "Notes/OCI(OracleCloudInfra)/베어메탈.md",
-    "Temporaries/강의.md",
+    "Notes/OCI(OracleCloudInfra)/AvailabilityDomain.md",
+    "Notes/aboutMe/aboutMe.md",
     "Notes/OCI(OracleCloudInfra)/OCI.md",
-    "Notes/OCI(OracleCloudInfra)/하이퍼바이저.md",
+    "Notes/Cloud/하이퍼바이저.md",
+    "Notes/Cloud/베어메탈.md",
+    "Notes/Cloud/가상머신.md",
+    "Temporaries/OCI 강의.md",
     "Templates/cc.md",
     "Temporaries/무제.md",
+    "Files/Pasted image 20250212211629.png",
+    "Notes/OCI(OracleCloudInfra)/베어메탈.md",
+    "Notes/OCI(OracleCloudInfra)/하이퍼바이저.md",
     "000_MOC/aws-moc-amazon-web-services-aws.md",
     "000_MOC/Cloud_Services_MOC.md",
     "000_MOC/OCI_MOC.md",
     "000_MOC/oci-moc-oracle-cloud-infrastructure-oci.md",
-    "Notes/aboutMe/aboutMe.md",
     "Notes/OCI(OracleCloudInfra)/무제.md",
     "Templates/Service_Template.md",
     "Temporaries/AWS.md",
@@ -242,9 +247,6 @@
     "ㅇㄴㄹ.md",
     "무제 5.md",
     "ㅇㅇ",
-    "무제 4.md",
-    "무제 3.md",
-    "hello",
-    "무제 2.md"
+    "hello"
   ]
 }
